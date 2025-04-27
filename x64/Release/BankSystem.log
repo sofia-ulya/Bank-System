@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\End user\source\repos\BankSystem\Main.cpp(399,7): warning C4101: 'curDate': unreferenced local variable
+C:\Users\End user\source\repos\BankSystem\Main.cpp(592,12): warning C4129: 'A': unrecognized character escape sequence
+C:\Users\End user\source\repos\BankSystem\Main.cpp(676,14): warning C4102: 'DetailOption': unreferenced label
+C:\Users\End user\source\repos\BankSystem\Main.cpp(742,13): warning C4102: 'DetailOption': unreferenced label
+C:\Users\End user\source\repos\BankSystem\Main.cpp(825,6): warning C4101: 'success': unreferenced local variable
+C:\Users\End user\source\repos\BankSystem\Main.cpp(1241,14): warning C4102: 'OrderOption': unreferenced label
+C:\Users\End user\source\repos\BankSystem\Main.cpp(1315,11): warning C4102: 'SortOption': unreferenced label
+C:\Users\End user\source\repos\BankSystem\Main.cpp(1354,13): warning C4102: 'OrderOption': unreferenced label
+  Generating code
+  19 of 304 functions ( 6.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BankSystem.vcxproj -> C:\Users\End user\source\repos\BankSystem\x64\Release\BankSystem.exe
